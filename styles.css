@@ -1,7 +1,18 @@
 body {
   background: powderblue;
 }
-
+.container {
+  width: 80%;
+  height: 300px;
+  background: rgb(134, 76, 134);
+  margin: auto;
+}
 h2 {
   background: navy;
+}
+h3 {
+  color: rgb(103, 187, 88);
+}
+h4 {
+  color: rgb(190, 182, 66);
 }
