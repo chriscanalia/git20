@@ -16,3 +16,11 @@ h3 {
 h4 {
   color: rgb(190, 182, 66);
 }
+
+h3,
+h4 {
+  margin-bottom: 10px;
+}
+.guess {
+  color: coral;
+}
